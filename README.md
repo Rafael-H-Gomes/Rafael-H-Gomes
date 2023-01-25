@@ -9,8 +9,8 @@
 ###
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Rafael-H-Gomes&show_icons=true&count_private=true&hide_border=true&title_color=2E8B57&icon_color=2faf67&text_color=c9d1d9&bg_color=00000000" alt="Rafael Gomes github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-H-Gomes&layout=compact&hide_border=true&title_color=2E8B57&text_color=c9d1d9&bg_color=00000000" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Rafael-H-Gomes&show_icons=true&count_private=true&hide_border=true&title_color=2E8B57&icon_color=2faf67&text_color=c9d1d9&bg_color=0D1117" alt="Rafael Gomes github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-H-Gomes&layout=compact&hide_border=true&title_color=2E8B57&text_color=c9d1d9&bg_color=0D1117" />
 </div>
 
 ###
