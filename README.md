@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=178459&size=35&center=true&vCenter=true&width=1000&lines=Hi+There,+My+name+is+Rafael+Gomes;I'm+17+years+old;I'm+from+Brazil;I'm+a+Fullstack+javascript+student;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=178459&size=35&center=true&vCenter=true&width=1000&lines=Hi+There,+My+name+is+Rafael+Gomes;I'm+19+years+old;I'm+from+Brazil;I'm+a+Fullstack+javascript+student;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
   <a href = "https://www.github.com/Rafael-H-Gomes"><img src="https://img.shields.io/badge/-Github-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
